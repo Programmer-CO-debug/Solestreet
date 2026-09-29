@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://solestreet.onrender.com/</loc>
+        <loc>https://programmer-co-debug.github.io/Solestreet/</loc>
     </url>
-
     <url>
-        <loc>https://solestreet.onrender.com/products.html</loc>
+        <loc>https://github.io</loc>
     </url>
-
     <url>
-        <loc>https://solestreet.onrender.com/product-running.html</loc>
+        <loc>https://github.io</loc>
     </url>
-
     <url>
-        <loc>https://solestreet.onrender.com/product-casual.html</loc>
+        <loc>https://github.io</loc>
     </url>
-
     <url>
-        <loc>https://solestreet.onrender.com/product-sports.html</loc>
+        <loc>https://github.io</loc>
     </url>
-
     <url>
-        <loc>https://solestreet.onrender.com/about.html</loc>
+        <loc>https://github.io</loc>
     </url>
-
     <url>
-        <loc>https://solestreet.onrender.com/contact.html</loc>
+        <loc>https://github.io</loc>
     </url>
-
 </urlset>
